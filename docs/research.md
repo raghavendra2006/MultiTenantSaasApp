@@ -112,6 +112,7 @@ const result = await db.query(
 const result = await db.query(
   "SELECT * FROM projects WHERE id = $1" // WRONG!
 );
+
 ```
 
 ### 2.2 Password Security
