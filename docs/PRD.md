@@ -1,5 +1,6 @@
 # Product Requirements Document (PRD) - Multi-Tenant SaaS Platform
 
+
 ## 1. Executive Summary
 
 The Multi-Tenant SaaS Platform is a cloud-based project and task management system designed for enterprises and teams of any size. The platform enables organizations to manage projects, assign tasks to team members, track progress, and maintain audit trails—all within a secure, multi-tenant architecture that keeps each organization's data completely isolated.
