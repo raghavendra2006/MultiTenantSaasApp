@@ -11,6 +11,7 @@ router.patch(
   tenantMiddleware,
   taskController.updateTaskStatus
 );
+
 router.put(
   "/:taskId",
   authMiddleware,
