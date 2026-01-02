@@ -12,6 +12,7 @@ router.post(
   tenantMiddleware,
   projectController.createProject
 );
+
 router.get(
   "/",
   authMiddleware,
