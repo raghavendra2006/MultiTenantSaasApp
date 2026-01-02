@@ -12,6 +12,7 @@ router.put(
   tenantMiddleware,
   userController.updateUser
 );
+
 router.delete(
   "/:userId",
   authMiddleware,

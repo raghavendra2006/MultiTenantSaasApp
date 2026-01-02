@@ -8,6 +8,7 @@ const authMiddleware = require("../middleware/auth");
 const roleMiddleware = require("../middleware/role");
 const tenantMiddleware = require("../middleware/tenant");
 
+
 // Tenant routes
 router.get(
   "/:tenantId",
